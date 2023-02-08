@@ -31,7 +31,6 @@
 
 <p>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
@@ -63,4 +62,4 @@
 
  <a href="https://github.com/Quocthai51"><img alt="Quoc Thai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Quocthai51&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 
-  <a href="https://github.com/Quocthai51"><img alt="Quoc Thai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Quocthai51&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
