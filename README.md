@@ -18,17 +18,6 @@
   <a href="https://dev.to/"><img alt="Dev.to" title="Tran Phu Quy Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
-## ⛅️ Weather in Danang now!
-
-<pre>Weather: ☀️   Sunny, +31°C, 63%, ↙4km/h, 1008hPa
-Timezone: Asia/Ho_Chi_Minh
-  Now:    11:25:07+0700 | Dawn:    05:03:53  | Sunrise: 05:27:22
-  Zenith: 11:53:41      | Sunset:  18:19:50  | Dusk:    18:43:17
-Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0678,108.2118]
-
-</pre>
-
-<small>The weather forecast will be updated automatically every 30 minutes. <a href="https://github.com/Quocthai51/readme-updater">How can I do that?</a></small>
 
 ## 🔥 Streak stats
 
@@ -72,12 +61,6 @@ Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0678,108.2118]
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/Quocthai51"><img alt="Quoc Thai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Quocthai51&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+ <a href="https://github.com/Quocthai51"><img alt="Quoc Thai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Quocthai51&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <a href="https://github.com/Quocthai51"><img alt="Quoc Thai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Quocthai51&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
