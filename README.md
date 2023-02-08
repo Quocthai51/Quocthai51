@@ -15,7 +15,7 @@
   <a href="https://doracoder.tk"><img alt="My blog" title="Blog" src="https://img.shields.io/badge/My website-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="https://discord.gg/" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://dev.to/"><img alt="Dev.to" title="Tran Phu Quy Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="[https://dev.to/](https://www.facebook.com/tochibuonmotchutthoi/)"><img alt="Dev.to" title="Le Quoc Thai" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"></a>
 </p>
 
 ## 📊 Github stats
