@@ -11,7 +11,7 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.facebook.com/tochibuonmotchutthoi" target="_blank" ><img style="height:28px; widtd:128.5px; " alt="Dev.to" title="Le Quoc Thai" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"></a>
+  <a href="https://www.facebook.com/tochibuonmotchutthoi" target="_blank" ><img style="height:28px;margin-left:10px; widtd:128.5px; " alt="Dev.to" title="Le Quoc Thai" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"></a>
     <a href="discordapp.com/users/336871353485623296" target="_blank" ><img style="height:28px; widtd:128.5px; " alt="Dev.to" title="Le Quoc Thai" src="https://cdn-icons-png.flaticon.com/512/4494/4494732.png"></a>
 </p>
 
