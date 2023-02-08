@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Quocthai51"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student of VKU;React+JS+Dev&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Quocthai51"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+VKU;React+JS+Dev&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
