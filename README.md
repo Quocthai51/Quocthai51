@@ -11,19 +11,16 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCglVvyTl9MjiDzNMl_9oqsw"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://doracoder.tk"><img alt="My blog" title="Blog" src="https://img.shields.io/badge/My website-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="https://discord.gg/" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/></a>
   <a href="https://dev.to/"><img alt="Dev.to" title="Tran Phu Quy Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
+## 📊 Github stats
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Quocthai51&theme=radical&hide_border=true)](https://github.com/Quocthai51)
-
+ <a href="https://github.com/Quocthai51"><img alt="Quoc Thai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Quocthai51&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 
 ## 🛠️ My favorite tools
 
@@ -58,8 +55,12 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📊 Github stats
 
- <a href="https://github.com/Quocthai51"><img alt="Quoc Thai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Quocthai51&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Quocthai51&theme=radical&hide_border=true)](https://github.com/Quocthai51)
+
+
 
 
