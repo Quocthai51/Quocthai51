@@ -58,24 +58,13 @@ Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0678,108.2118]
 
 </p>
 
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?logo=amazon%20aws&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
-</p>
 
 ### 💻 Software and tools
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
