@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <a href="https://github.com/Quocthai51"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+VKU;React+JS+Dev&center=true&width=380&height=45"></a>
 </div>
 
