@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Quocthai51"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+VKU;React+JS+Dev&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Quocthai51"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+VKU;React+JS+Dev;React+Native+Dev&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -14,7 +14,7 @@
   <a style=" margin-right:10px; padding-inline:10px;" href="https://www.facebook.com/tochibuonmotchutthoi" target="_blank" >
   <img style="height:28px; padding-inline:10px; " alt="Disc" title="Le Quoc Thai" src="https://cdn-icons-png.flaticon.com/512/124/124010.png">
   </a>
-    <a href="discordapp.com/users/336871353485623296" target="_blank" >
+    <a href="https://discord.com/users/336871353485623296" target="_blank" >
     <img style="height:28px;  " alt="fvb" title="Le Quoc Thai" src="https://cdn-icons-png.flaticon.com/512/4494/4494732.png">
     </a>
 </div>
