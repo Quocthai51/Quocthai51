@@ -38,7 +38,7 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js%20-%23E0234E.svg?logo=nestjs&logoColor=white"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23E0234E.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 
