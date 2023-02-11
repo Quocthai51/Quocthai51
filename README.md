@@ -23,7 +23,7 @@
 
  <a href="https://github.com/Quocthai51"><img alt="Quoc Thai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Quocthai51&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 
-## 🛠️ My favorite tools
+
 
 ### 👨‍💻 Programming languages
 
@@ -62,5 +62,9 @@
 > [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Quocthai51&theme=radical&hide_border=true)](https://github.com/Quocthai51)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Quocthai51/github-readme-stats)
 
+<p>
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Quocthai51/github-readme-stats)
+
+
+</p>
