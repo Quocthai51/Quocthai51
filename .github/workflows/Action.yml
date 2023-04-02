@@ -29,15 +29,15 @@ jobs:
           git config --local user.name "Quocthai51"
           git add -A
           
-          arr[0]="Bot 😂 commit"
-          arr[1]="Bot 😱 commit"
-          arr[2]="Bot 👿 commit"
-          arr[3]="Bot 💩 commit"
-          arr[4]="Bot 🙏 commit"
-          arr[5]="Bot 🙈 commit"
-          arr[6]="Bot 🐐 commit"
-          arr[7]="Bot 🤖 commit"
-          arr[8]="Bot 👻 commit"
+          arr[0]="😂 commit"
+          arr[1]="😱 commit"
+          arr[2]="👿 commit"
+          arr[3]="💩 commit"
+          arr[4]="🙏 commit"
+          arr[5]="🙈 commit"
+          arr[6]="🐐 commit"
+          arr[7]="🤖 commit"
+          arr[8]="👻 commit"
           
           rand=$[$RANDOM % ${#arr[@]}]
           
