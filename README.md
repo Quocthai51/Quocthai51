@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Quocthai51"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+VKU;React+JS+Dev;React+Native+Dev&center=true&width=380&height=45"></a>
+  <a href="https://github.com/vitiskina"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+VKU;React+JS+Dev;React+Native+Dev&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -21,7 +21,7 @@
 
 ## 📊 Github stats
 
- <a href="https://github.com/Quocthai51"><img alt="Quoc Thai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Quocthai51&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+ <a href="https://github.com/vitiskina"><img alt="Quoc Thai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vitiskina&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 
 
 
@@ -59,10 +59,10 @@
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Quocthai51&theme=radical&hide_border=true)](https://github.com/Quocthai51)
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vitiskina&theme=radical&hide_border=true)](https://github.com/vitiskina)
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quocthai51&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitiskina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
